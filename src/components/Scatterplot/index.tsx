@@ -41,7 +41,7 @@ const ScatterPlot = ({ data }) => {
     }
   };
 
-  return <Scatter data={scatterData} options={scatterOptions} />;
+  return <Scatter data={scatterData}/>;
 };
 
 export default ScatterPlot;
