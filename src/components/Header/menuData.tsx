@@ -25,6 +25,18 @@ const menuData: Menu[] = [
     path: "/statistik",
     newTab: false,
   },
+  {
+    id: 4,
+    title: "Pendaftaran",
+    path: "/pendaftaran",
+    newTab: false,
+  },
+  {
+    id: 5,
+    title: "Fitur rekomendasi",
+    path: "/rekomendasi",
+    newTab: false,
+  },
   // {
   //   id: 4,
   //   title: "Pages",
